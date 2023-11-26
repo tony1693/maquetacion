@@ -1,0 +1,86 @@
+.padre{
+    
+    height: 137px;
+    flex-wrap: nowrap;
+}
+.hijo-verde{
+    border: 5px solid green;
+    height: 80px;
+    font-size: 20px;
+}
+.hijo-marron{
+    border: 5px solid burlywood;
+    height: 40px;
+    font-size: 20px;
+}
+.padreMayor{
+    
+    height: 345px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.padre2{
+    border: 5px solid blue;
+    height: 335px;
+    width: 700px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    flex-wrap: nowrap;
+
+}
+.hijo-verde-claro{
+    border: 5px solid green;
+    height: 50px;
+    margin-top: 40px;
+
+}
+.hijo-morado{
+    border: 5px solid purple;
+    height: 50px;
+    margin-top:80px ;
+}
+.hijo-morado2{
+    border: 5px solid purple;
+    height: 40px;
+    
+
+}
+.hijo-amarillo{
+    border: 5px solid yellow;
+    height: 30px;
+}
+.padre3{
+    border: 5px solid orange;
+    height: 335px;
+    width:500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-wrap: nowrap;
+
+}
+.hijo-verde-azulado2{
+    border: 5px solid turquoise;
+    height: 120px;
+    
+    
+}
+.hijo-verde-azulado{
+    border: 5px solid turquoise;
+    height: 120px;
+    margin-top: 5px;
+}
+.padre4{
+    border: 5px solid black;
+    height: 90px;
+    flex-wrap: nowrap;
+
+}
+.hijo-amarillo2{
+    border: 5px solid yellow ;
+    height: 85px;
+    font-size: 20px;
+}
