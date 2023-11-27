@@ -1,0 +1,46 @@
+.padre{
+    background-color: black;
+    border: 5px double whitesmoke ;
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly ;
+    flex-wrap: wrap;
+    
+
+
+}
+.enlaces{
+    font-size: 20px;
+    padding: 27px;
+
+}
+.enlaces1{
+    font-size: 20px;
+    padding: 27px;
+    text-decoration: none;
+
+}
+.enlaces2{
+    font-size: 20px;
+    padding: 27px;
+    text-decoration: none;
+
+
+}
+.padreMayor{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.padre2{
+    
+    height: 480px;
+    width: 700px;
+    margin: 20px;
+
+}
+.photo{
+    margin-top: 50px;
+}
