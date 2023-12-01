@@ -1,0 +1,32 @@
+.padreMayor{
+    border: 0px solid black;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.titulo{
+    
+    border: 5px solid black;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: black;
+    
+
+}
+.enlacePadre{
+    border: 5px solid black;
+    width: 700px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end;
+    
+}
+.nombre{
+    color:blue;
+    font-family: fantasy;
+}

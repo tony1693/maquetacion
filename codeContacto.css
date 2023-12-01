@@ -1,0 +1,67 @@
+.padreMayor{
+    border: 0px solid black;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 100px;
+}
+.titulo{
+    
+    border: 5px solid black;
+    width: 600px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: black;
+    
+
+}
+.enlacePadre{
+    border: 5px solid black;
+    width: 700px;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: end;
+    
+}
+.padreMayor2{
+    background-color:blue;
+    display: flex;
+    flex-direction: row;
+    
+
+}
+.foto{
+    
+    background-color:blue;
+    height: 470px;
+    width: 560px;
+    display: flex;
+    flex-direction: column;
+}
+.nombre{
+    display:flex;
+    flex-direction:column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-inline-end: auto;
+
+}
+
+.texto1{
+    font-size: 20px;
+    background-color:blue;
+    height: 455px;
+    width: 550px;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
